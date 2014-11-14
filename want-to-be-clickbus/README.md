@@ -23,7 +23,9 @@ How to apply for our vacancies
 If you are sure you want to work at ClickBus:
 
 * Perform a fork of this project;
-* Choose one of the tests available on directory **testes**
+* Choose one of the following tests:
+  * https://github.com/RocketBus/developers/tree/master/want-to-be-clickbus/cash-machine
+  * https://github.com/RocketBus/developers/tree/master/want-to-be-clickbus/group-by-interval
 * Make a pull-request, or if you have any restriction about sending a online pull-request, send your resumé to [vagas@clickbus.com.br](mail to:vagas@clickbus.com.br) with the tests attached, the PHP version used and its dependencies.
 
 Feel free to add ANYTHING you believe it would be good to the person that will receive these datas (twitter, facebook, sites online, outros trabalhos, etc).

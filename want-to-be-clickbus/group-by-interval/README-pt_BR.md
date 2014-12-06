@@ -3,9 +3,9 @@ Group By Interval
 
 O Problema
 ----------
-Dado um grupo desordenado de n√∫meros inteiros, positivos ou negativos, dividir a lista em grupos ordenados de acordo com o range especificado: 
+Dado um grupo desordenado de n˙meros inteiros, positivos ou negativos, dividir a lista em grupos ordenados de acordo com o range especificado: 
 
-*Aten√ß√£o: O algoritmo de ordena√ß√£o faz parte da solu√ß√£o do problema, n√£o pode ser utilizada func√µes da linguagem para realiza-la*
+*AtenÁ„o: O algoritmo de ordenaÁ„o faz parte da soluÁ„o do problema, n„o pode ser utilizada funcıes da linguagem para realiza-la*
 
 Exemplos:
 ---------
@@ -46,4 +46,3 @@ Exemplos:
   Number Set: [ ]  
   ```
   **Resultado:** [Empty Set]
-

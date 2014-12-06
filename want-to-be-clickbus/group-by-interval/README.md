@@ -48,4 +48,3 @@ Example:
   ```
   **Result:** [Empty Set]
 
-
